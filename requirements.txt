@@ -1,0 +1,29 @@
+Reglas
+    -Inicio de clase: 20:40
+    -Se nombra lista: 20:45
+    -*Se debe tener todos los ejercicios de clase "prácticas" para presental evaluación parcial
+
+¿Qué vamos a ver?
+    1. Bootstrap
+    2. Python (OOP)+ Flask
+    3. MySQL + (VueJS tentativo)
+    
+Proyecto
+    - Aplicación web con Bootstrap 5 + Python (Flask) + MySQL + VueJS (tentativamente)
+    
+Fechas de entrega:
+    -Parcial 1: jueves 4 de febrero 2021
+        -Frontend usando Bootstrap 5
+    -Parcial 2: jueves 4 de marzo 2021
+        -Backend usando Python (flask) + MySQL
+    -Parcial 3: jueves 15 de abril 2021
+        -API-REST
+
+Modo de trabajo:
+    -Se usará github para llevar el proyecto
+    -Se usará github para los ejercicios de clase
+    
+Evaluación:
+    -Parcial 1: 30% 
+    -Parcial 2: 30%
+    -Parcial 3: 40%
