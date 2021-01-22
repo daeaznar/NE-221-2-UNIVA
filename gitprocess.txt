@@ -10,3 +10,4 @@
 
 - git pull 
 - git merge branch_name
+- git branch -a
