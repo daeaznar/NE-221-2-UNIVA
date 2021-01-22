@@ -1,9 +1,16 @@
-Name:
-Description:
+Name: email marketing platform/service
+Description: A marketing online platform where users can create their own personalized emails for marketing purposes.
+            They'll be able to save emaill addresses by lists, order them, create list, add or delete contacts.
+            From the platform they can send massive marketing emails to multiple potential customer
 
 Modules:
-    1.
-    2.
-    3.
+    1. Log in/Sign in
+    2. Create accont
+    3. Recover credentials
+    4. Create tempates for emails
+    5. Create and Delete lists
+    6. Add or delete contacts to lists
+    7. Select list or specific contacts to send emails to
+    8. Personalize email content
 
 Author: David Asaf Hernández Aznar
