@@ -1,0 +1,2 @@
+1. Wireframes / Mockups of project (at least 4 sections)
+2. Get 3 bootstrap & 3 python VSC plugins
