@@ -1,0 +1,22 @@
+<ul>
+
+    <li>Id: {{school.0}}</li>
+    <li>Name: {{school.1}}</li>
+    <li>Description: {{school.2}}</li>
+    <li>Is_active: {{school.3}}</li>
+    <li>Create_at: {{school.4}}</li>
+    <li>Update_at: {{school.5}}</li>
+    <li>Teacher_id: {{school.6}}</li>
+    <li>Teacher_FirstName: {{school.7}}</li>
+    <li>Student_id: {{school.8}}</li>
+    <li>Student_FirstName: {{school.9}}</li>
+
+</ul>
+
+<form action="/update_one_school/{{ school.0 }}" method="POST">
+
+    <input type="text" name="name" value="{{school.1}}">
+    <input type="text" name="description" value="{{school.2}}">
+    <input type="submit" value="Update">
+    
+</form>
